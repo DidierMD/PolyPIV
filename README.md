@@ -12,6 +12,17 @@ The development and testing environment included:
 - Debian linux 7
 - gcc version 5
 
+#### Software Overview
+
+!(PolyPIVGUI.png)
+
+a) Display Area
+b) Load/Save/Reset buttons
+c) General paramenters and settings.
+d) Algorithms selection and execution.
+
+###### License
+
 The PolyPIV software is licensed under the terms of the GPL version 3 (or later) license.
 
     Copyright (C) 2019 Didier Muñoz Díaz
