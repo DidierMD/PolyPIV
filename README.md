@@ -1,5 +1,5 @@
 # PolyPIV
-Particle Image Velocimetry software developed for my undergraduate thesis.
+Particle Image Velocimetry software used for fluid analysis. In short, this software's purpose is to calculate the velocity map of a fluid of interest.
 
 This award-winning software requires the following external libraries:
 - FFTW for computing the discrete Fourier transform.
@@ -17,8 +17,8 @@ The development and testing environment included:
 
 ![alt text](PolyPIVGUI.png)
 
-* a) Display Area
-* b) Load/Save/Reset buttons
+* a) Display Area to visualize the processed images and the velocity map.
+* b) Load/Save/Reset buttons.
 * c) General paramenters and settings.
 * d) Algorithms selection and execution.
 
