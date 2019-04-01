@@ -22,6 +22,13 @@ The development and testing environment included:
 * c) General paramenters and settings.
 * d) Algorithms selection and execution.
 
+#### Building
+
+For building the whole project there are 2 options, once in the src folder:
+
+- To compile the modified parts of the project: ```sh compile_all.sh ```
+- To remove all the binaries and then compile the whole project: ``` sh force_compile_all.sh```
+
 ###### License
 
 The PolyPIV software is licensed under the terms of the GPL version 3 (or later) license.
