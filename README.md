@@ -14,7 +14,7 @@ The development and testing environment included:
 
 #### Software Overview
 
-!(PolyPIVGUI.png)
+![alt text](PolyPIVGUI.png)
 
 a) Display Area
 b) Load/Save/Reset buttons
