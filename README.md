@@ -2,13 +2,14 @@
 Particle Image Velocimetry software developed for my undergraduate thesis.
 
 This award-winning software requires the following external libraries:
--FFTW for computing the discrete Fourier transform.
--FreeImage for saving images in several formats.
--GTK+ for managing the Graphic User Interface.
+- FFTW for computing the discrete Fourier transform.
+- FreeImage for saving images in several formats.
+- GTK+ for managing the Graphic User Interface.
 
 The GUI description was made on the GLADE software.
 
 The development and testing environment included:
+
 - Debian linux 7
 - gcc version 5
 
