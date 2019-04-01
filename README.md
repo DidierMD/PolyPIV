@@ -17,10 +17,10 @@ The development and testing environment included:
 
 ![alt text](PolyPIVGUI.png)
 
-a) Display Area
-b) Load/Save/Reset buttons
-c) General paramenters and settings.
-d) Algorithms selection and execution.
+* a) Display Area
+* b) Load/Save/Reset buttons
+* c) General paramenters and settings.
+* d) Algorithms selection and execution.
 
 ###### License
 
