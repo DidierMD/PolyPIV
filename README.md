@@ -10,7 +10,7 @@ The GUI description was made on the GLADE software.
 
 The development and testing environment included:
 
-- Debian linux 7
+- Ubuntu Linux 16.04
 - gcc version 5
 
 #### Software Overview
