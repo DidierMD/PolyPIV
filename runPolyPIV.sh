@@ -1,0 +1,2 @@
+cd PolyPIV/lastVersion/
+./PolyPIV

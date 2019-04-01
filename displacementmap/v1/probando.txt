@@ -1,0 +1,16 @@
+# Map dimensions:
+4 5
+# Zones dimensions:
+10 10
+# Distance between zones:
+10 10
+# Map's Bottom-Leftmost corner:
+0 0
+# Additional info:
+nada por aqui
+# Data:
+0 0  0 0  0 0  0 0  
+0 0  0 0  0 0  0 0  
+0 0  0 0  0 0  0 0  
+0 0  0 0  0 0  0 0  
+0 0  0 0  0 0  0 0  

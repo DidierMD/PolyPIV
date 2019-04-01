@@ -1,0 +1,3 @@
+-lImageFFTW -lfftw3 -lm -lfreeimage -lpthread
+-L../../ImageFFTW/lastVersion/
+-iquote../../ImageFFTW/lastVersion/ -iquote../../DobleFor/lastVersion/ -iquote../../PIValgorithm/lastVersion/ -iquote../../DisplacementMap/lastVersion/ 

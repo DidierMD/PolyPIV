@@ -1,0 +1,4 @@
+FreeImage is licensed undet the terms of the GPL version 2 or version 3 license.
+
+See <http://www.gnu.org/licenses/> for license details.
+

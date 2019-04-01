@@ -1,0 +1,3 @@
+The FFTW library is licenced under the GPL license terms.
+
+See <http://www.gnu.org/licenses/> for license details.

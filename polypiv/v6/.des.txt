@@ -1,0 +1,23 @@
+# 
+# Delta t between images: 
+1
+# Scale factor in cm/px: 
+0.1
+# Number of displacement/velocity maps: 
+1
+# Map dimensions:
+3 4
+# Zones dimensions:
+128 128
+# Distance between zones:
+256 256
+# Map's Bottom-Leftmost corner:
+0 0
+# Additional info:
+
+# Data:
+0 0.414286  0 0  0 0  
+0 0  0 0  0 0  
+0 0  0 0  0 0  
+0 0  0 0  0 0  
+

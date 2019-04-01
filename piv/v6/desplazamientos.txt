@@ -1,0 +1,14 @@
+Dimensiones del mapa: 
+5 6
+Dimensiones de las zonas de interrogacion: 
+2 2
+Separacion horizontal y vertical entre las zonas de interrogacion: 
+2 2
+Factor de escala en cm/px 
+0
+1
+0 0  0 0  0 0  0 0  0 0  0 0  
+0 0  0 0  0 0  0 0  0 0  0 0  
+0 0  0 0  0 0  0 0  0 0  0 0  
+0 0  0 0  0 0  0 0  0 0  0 0  
+0 0  0 0  0 0  0 0  0 0  0 0  
